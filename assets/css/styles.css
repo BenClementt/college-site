@@ -36,7 +36,21 @@ body {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    
+}
+
+.topHeroText{
+    color: white;
+    font-weight: 300;
+}
+
+.middleHeroText{
+    color: aquamarine;
+    font-weight: 600;
+}
+
+.bottomHeroText{
+    color: #eee;
+    font-weight: 200;
 }
 
 @media screen and (max-width: 1400px) {
@@ -44,4 +58,5 @@ body {
         width: 100%;
         margin-top: 50px !important;
     }
+    
   }
