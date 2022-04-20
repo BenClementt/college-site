@@ -29,19 +29,14 @@ body {
     background-color: #154c9c;
     height: 300px;
     width: 1400px;
-    margin: 50px;
     margin-top: 75px !important;
     border-radius: 5px;
     box-shadow: 0px 0px 20px -10px #000;
     position: absolute;
-    left:50%;
-    transform: translateX(-50%);
-}
 
 @media screen and (max-width: 1400px) {
     .heroContainer{
         width: 100%;
-        left: 0 !important;
-        transform: unset !important;
+
     }
   }
