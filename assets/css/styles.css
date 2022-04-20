@@ -69,6 +69,19 @@ body {
     font-size: larger;
 }
 
+.heroImgCont{
+    text-align: right;
+    position: absolute;
+    top: 50%;
+    right: 6.5%;
+    transform: translateY(-50%);
+    font-size: larger;
+}
+
+.heroImg{
+    height: 250px;
+}
+
 @media screen and (max-width: 1400px) {
     .heroContainer{
         width: 100%;
