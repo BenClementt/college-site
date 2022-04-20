@@ -14,3 +14,11 @@ body {
     position: absolute;
     top: 0;
 }
+
+.logoContainer{
+    position: absolute;
+    top: 0;
+    width: 50px;
+    left:0;
+    border-right: 1px solid #313131;
+}
