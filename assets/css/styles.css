@@ -73,13 +73,13 @@ body {
     text-align: right;
     position: absolute;
     top: 50%;
-    right: 6.5%;
+    right: 12.5%;
     transform: translateY(-50%);
     font-size: larger;
 }
 
 .heroImg{
-    height: 250px;
+    height: 350px;
 }
 
 @media screen and (max-width: 1400px) {
