@@ -60,6 +60,14 @@ body {
     color: white;
 }
 
+.heroTextCont{
+    text-align: left;
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translateY(-50%);
+}
+
 @media screen and (max-width: 1400px) {
     .heroContainer{
         width: 100%;
