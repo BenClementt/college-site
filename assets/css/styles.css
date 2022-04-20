@@ -36,11 +36,13 @@ body {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
+    line-height: 0.5;
 }
 
 .topHeroText{
     color: white;
     font-weight: 300;
+    margin-top: 5px;
 }
 
 .middleHeroText{
