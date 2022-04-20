@@ -66,6 +66,7 @@ body {
     top: 50%;
     left: 10%;
     transform: translateY(-50%);
+    font-size: larger;
 }
 
 @media screen and (max-width: 1400px) {
