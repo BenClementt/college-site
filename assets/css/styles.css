@@ -28,13 +28,13 @@ body {
 .heroContainer{
     background-color: #154c9c;
     height: 300px;
-    width: 700px;
+    width: 900px;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0px 0px 20px -10px #000;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 900px) {
     .heroContainer{
         width: 100%;
     }
