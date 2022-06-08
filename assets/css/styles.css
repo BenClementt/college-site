@@ -82,6 +82,12 @@ body {
     height: 350px;
 }
 
+.highlightContainer{
+    width: auto;
+    height: 50px;
+    background-color: #154c9c;
+}
+
 @media screen and (max-width: 1400px) {
     .heroContainer{
         width: 100%;
